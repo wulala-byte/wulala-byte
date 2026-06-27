@@ -35,8 +35,6 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=tokyonight)
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night)
-
 ---
 
 ## 🧩 Current Work
