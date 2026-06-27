@@ -51,6 +51,7 @@
 - Location: Tokyo / Beijing
 
 ---
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
 
 <!-- visitor badge -->
 ![visitors](https://komarev.com/ghpvc/?username=liushuchao&style=flat-square)
