@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night)
 
 ---
 
